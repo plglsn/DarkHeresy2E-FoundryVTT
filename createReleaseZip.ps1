@@ -1,5 +1,5 @@
 $target = '.\release'
-$targetFile = ".\dark-heresy-test.zip"
+$targetFile = ".\dark-heresy.zip"
 
 New-Item -Path $target -ItemType Directory
 

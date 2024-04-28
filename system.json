@@ -1,5 +1,5 @@
 {
-  "id": "dark-heresy-test",
+  "id": "dark-heresy",
   "title": "Dark Heresy 2E",
   "description": "Unofficial Foundry VTT System for Dark Heresy 2nd Edition.",
   "version": "4.4.0",
@@ -35,7 +35,7 @@
     {
       "name": "character-aptitudes",
       "label": "Character Aptitudes",
-      "system": "dark-heresy-test",
+      "system": "dark-heresy",
       "path": "./packs/aptitudes.db",
       "type": "Item"
     }
@@ -69,6 +69,6 @@
   "url": "https://github.com/plglsn/DarkHeresy2E-FoundryVTT",
   "socket": true,
   "manifest": "https://raw.githubusercontent.com/plglsn/DarkHeresy2E-FoundryVTT/test/system.json",
-  "download": "https://github.com/plglsn/DarkHeresy2E-FoundryVTT/raw/test/dark-heresy-test.zip",
+  "download": "https://github.com/plglsn/DarkHeresy2E-FoundryVTT/raw/test/dark-heresy.zip",
   "license": "LICENSE.txt"
 }
