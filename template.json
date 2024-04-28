@@ -74,7 +74,7 @@
             "advance": 0,
             "unnatural": 0,
             "aptitudes": ["Perception", "Fieldcraft"],
-            "cost": 0,
+            "cost": 20,
             "damage": 0
           },
           "willpower": {
